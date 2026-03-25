@@ -1,0 +1,3 @@
+pytelegrambotapi
+gspread
+oauth2client
